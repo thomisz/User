@@ -1,3 +1,24 @@
-# User
+# README
 
-Salut, j'ai eu un problème au moment de pusher mes fichiers et doc sur GitHub, je comprend pas
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
